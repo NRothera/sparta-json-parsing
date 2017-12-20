@@ -30,7 +30,7 @@ class ParseJson
 
   def get_first_rate_key
 
-    
+
   end
 
   def get_date_value
